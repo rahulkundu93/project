@@ -1,0 +1,117 @@
+/*styleshee*/
+/*body*/
+*
+{
+	box-sizing:border-box;
+}
+html, body
+{
+	margin:0;
+	padding:0;
+}
+
+/*tab css*/
+#tabpills
+{
+	background-color:#F4A844;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+}
+#tabfont
+{
+	font-size:25px;
+}
+/*header css*/
+/*intractive section css*/
+#tabpills2
+{
+	background-color:#ECA440;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+}
+#panelbodyfirst
+{
+	background-color:#293B3F;
+}
+button.btn
+{
+	background-color:#F2AC41;
+}
+#name,#email,#phone
+{
+	background-color:#E4E6EA;
+}
+/*jumbotron css*/
+div.jumbotron
+{
+	background-color:white;
+}
+/*speaker session css*/
+div.panel-body
+{
+	background-color:#E3E3E3;
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;
+}
+div.spcircle
+{
+	margin-bottom:10px;
+}
+img.img-circle
+{
+	width:140px;
+	height:140px;
+	margin-top:15px;
+	margin-bottom:20px;
+}
+/*session section css*/
+#panelsession
+{
+	background-color:#E3E3E3;
+	border-bottom-right-radius:20px;
+	border-bottom-left-radius:20px;
+}
+/*about us session css*/
+/*our courses css*/
+#bottom
+{
+	background:url("img/bottom.gif");
+	background-repeat:no-repeat;
+}
+p.courselink
+{
+	font-size:25px;
+	color:white;
+	font-style:bold;
+}
+a.sublink:link,a.sublink:visited
+{
+	text-decoration:none;
+	color:white;
+}
+#btn1
+{
+	background-color:#293C40;
+	color:white;
+}	
+#btn2
+{
+	background-color:#F2A83F;
+}
+/*footer css*/
+div.bg-4
+{
+	background-color:#293C40;
+	color:white;
+	height:80px;
+	margin-top:20px;
+}
+span.has-error
+{
+	color:red;
+}
+
